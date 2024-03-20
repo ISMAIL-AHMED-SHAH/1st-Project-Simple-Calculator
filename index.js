@@ -26,3 +26,4 @@ else if (answers.operator === "Division") {
 else {
     "Please select a valid operator";
 }
+console.log('THE END');
